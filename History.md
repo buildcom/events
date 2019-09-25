@@ -1,3 +1,7 @@
+# 3.0.1 (2019-09-25)
+
+  - Calls console.warn only in __DEV__ mode
+
 # 3.0.0 (2018-05-25)
 
 **This version drops support for IE8.** `events` no longer includes polyfills
